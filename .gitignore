@@ -7,4 +7,5 @@
 #
 # @author Jhonny Alexander Gomez <support@jhoncytech.com>
 
-#config/ssh-keys
+.gitignore
+config/ssh-keys
