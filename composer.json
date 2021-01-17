@@ -1,0 +1,20 @@
+{
+    "name": "jhoncytech/automatic-deployment",
+    "description": "Automatic deployment script through Vagrant",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jhonny Alexander Gómez - JhonnyGO",
+            "email": "jhonny@jhoncytech.com",
+            "homepage": "https://jhoncytech.com",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "stable",
+    "config": {
+        "secure-http": true
+    },
+    "require": {},
+    "require-dev": {}
+}
