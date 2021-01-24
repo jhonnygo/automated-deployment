@@ -1,6 +1,6 @@
 {
-    "name": "jhoncytech/automatic-deployment",
-    "description": "Automatic deployment script through Vagrant",
+    "name": "jhoncytech/automated-deployment",
+    "description": "Automated deployment script through Vagrant",
     "type": "project",
     "license": "MIT",
     "authors": [
