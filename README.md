@@ -23,7 +23,9 @@ Automated deployment script through Vagrant
     
 * In remote server you need to point the document root of vhosts to /var/www/current like the follow image:
 
-<img src="img/img-config-001.jpg" alt="Vhost" />
+     <img src="img/img-config-001.jpg" alt="Vhost" />
+     
+     that's because this script creates the necessary folders during deployment and the main one is current
     
 * **Optionally** you can to install composer if you want to use composer for to get the project.
 
