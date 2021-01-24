@@ -19,19 +19,19 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => '836e3b72e8ee03a0d027334ccb6bb3c25b594c92',
-    'name' => 'jhoncytech/automatic-deployment',
+    'reference' => '166822f5a8cd431af13b0e672d87850562218fab',
+    'name' => 'jhoncytech/automated-deployment',
   ),
   'versions' => 
   array (
-    'jhoncytech/automatic-deployment' => 
+    'jhoncytech/automated-deployment' => 
     array (
       'pretty_version' => 'dev-main',
       'version' => 'dev-main',
       'aliases' => 
       array (
       ),
-      'reference' => '836e3b72e8ee03a0d027334ccb6bb3c25b594c92',
+      'reference' => '166822f5a8cd431af13b0e672d87850562218fab',
     ),
   ),
 );
