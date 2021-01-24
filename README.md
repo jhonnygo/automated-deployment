@@ -23,29 +23,30 @@ Automated deployment script through Vagrant
     
 * In remote server you need to point the document root of vhosts to /var/www/current like the follow image:
 
+     > that's because this script creates the necessary folders during deployment and the main one is current
+     
      <img src="img/img-config-001.jpg" alt="Vhost" />
      
-     that's because this script creates the necessary folders during deployment and the main one is current
-     
-     * The script generates a structure like this:
+     > The script generates a structure like this:
      
      <img src="img/img-config-002.jpg" alt="Deploy Version" />
      
-     * The script generates the deploy version in file **deploy-version** stored into /var/www/sql/
+     > The script generates the deploy version in file **deploy-version** stored into /var/www/sql/
      
      <img src="img/img-config-005.jpg" alt="Deploy Version" />
      
-     * All releases are stored in folder **releases** where you can see the folder that contain the html files with the deploy-version.
+     > All releases are stored in folder **releases** where you can see the folder that contain the html files with the deploy-version.
      
      <img src="img/img-config-003.jpg" alt="Releases" />
      
-     * In the same way all .sql files are stored in sql folder where you can see the database version with the deploy version too.
+     > In the same way all .sql files are stored in sql folder where you can see the database version with the deploy version too.
      
      <img src="img/img-config-004.jpg" alt="SQL Files" />
      
-     * Finally, you can see the **scripts-data-access.sh** file that stores all necessary data for the script work properly. This file is encrypted for security reasons.
+     > Finally, you can see the **scripts-data-access.sh** file that stores all necessary data for the script work properly. This file is encrypted for security reasons.
      
      <img src="img/img-config-006.jpg" alt="Script Data Access" />
+    
     
 * **Optionally** you can to install composer if you want to use composer for to get the project.
 
