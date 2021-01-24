@@ -21,6 +21,10 @@ Automated deployment script through Vagrant
 
     You can download virtualbox by clicking in the follow address https://www.virtualbox.org/wiki/Downloads
     
+* In remote server you need to point the document root of vhosts to /var/www/current like the follow image:
+
+<img src="img/img-config-001.jpg" alt="Vhost" />
+    
 * **Optionally** you can to install composer if you want to use composer for to get the project.
 
     You can download and install composer following the instruction in the official web page https://getcomposer.org/download/
