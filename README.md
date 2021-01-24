@@ -79,7 +79,7 @@ With this script you can:
     > Create project using composer.
     
     ```sh
-    #> composer create-project jhoncytech/automatic-deployment my-web
+    #> composer create-project jhoncytech/automated-deployment my-web
     ```
     
     > Go to new created directory.
@@ -109,10 +109,10 @@ With this script you can:
     #> cd my-web
     ```
     
-    > Clone from GitHub the Automatic Vagrant Deployment project by JhonnyGO.
+    > Clone from GitHub the Automated Vagrant Deployment project by JhonnyGO.
     
     ```sh
-    #> git clone git@github.com:jhonnygo/automatic-deployment.git .
+    #> git clone git@github.com:jhonnygo/automated-deployment.git .
     ```
 ---
     
