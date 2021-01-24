@@ -1,5 +1,5 @@
-# automatic-deployment
-Automatic deployment script through Vagrant
+# automated-deployment
+Automated deployment script through Vagrant
 
 <p align="center">
   <img src="img/top-header.jpg" alt="Screenshot de la plantilla" width="100%" />
