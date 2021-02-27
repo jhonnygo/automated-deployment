@@ -122,7 +122,7 @@ With this script you can:
     > Create project using composer.
     
     ```sh
-    #> composer create-project jhoncytech/automated-deployment my-web
+    #> composer create-project jhoncytech/automatic-deployment my-web
     ```
     
     > Go to new created directory.
